@@ -4,6 +4,15 @@ An autonomous drone system capable of navigating from one point to another witho
 
 ---
 
+```markdown
+## 🎥 Demo Video
+
+Watch the project in action:
+
+https://youtu.be/PqE4tPlOjaQ?si=D__4bcm4ByLmH5Esion:
+
+---
+
 ## 🔥 Features
 
 - Autonomous navigation using PID control
@@ -55,3 +64,15 @@ An autonomous drone system capable of navigating from one point to another witho
 6. Drone adjusts trajectory autonomously
 7. Video stream sent to ground station via UDP
 8. Monitoring via SSH on Ubuntu laptop
+
+---
+
+## 🧪 Simulation (Gazebo)
+
+The drone system is also tested in simulation using Gazebo integrated with ROS.
+
+### Features
+- Simulated drone dynamics
+- PID tuning in virtual environment
+- Sensor simulation (camera, IMU)
+- Autonomous navigation testing before real deployment
