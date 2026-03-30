@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/edrone_client/lib/python3/dist-packages/edrone_client/srv/_edrone_services.py

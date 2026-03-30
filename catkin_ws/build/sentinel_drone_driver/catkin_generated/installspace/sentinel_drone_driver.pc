@@ -1,0 +1,8 @@
+prefix=/home/hyden/catkin_ws/install
+
+Name: sentinel_drone_driver
+Description: Description of sentinel_drone_driver
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/sentinel_drone_driver/share/roseus/ros/sentinel_drone_driver/msg/RCMessage.l

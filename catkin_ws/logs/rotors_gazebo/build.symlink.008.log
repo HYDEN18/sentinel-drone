@@ -1,0 +1,7 @@
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake, /home/hyden/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake)
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake, /home/hyden/catkin_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake)
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/quaternion_to_rpy, /home/hyden/catkin_ws/devel/lib/rotors_gazebo/quaternion_to_rpy)
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example, /home/hyden/catkin_ws/devel/lib/rotors_gazebo/hovering_example)
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file, /home/hyden/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher_file)
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher, /home/hyden/catkin_ws/devel/lib/rotors_gazebo/waypoint_publisher)
+Linked: (/home/hyden/catkin_ws/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc, /home/hyden/catkin_ws/devel/lib/pkgconfig/rotors_gazebo.pc)

@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/sentinel_drone_driver/share/sentinel_drone_driver/cmake/sentinel_drone_driver-msg-extras.cmake

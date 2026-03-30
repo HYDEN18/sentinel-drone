@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/sentinel_drone/lib/python3/dist-packages/sentinel_drone/msg/__init__.py

@@ -1,0 +1,46 @@
+[35m[1mScanning dependencies of target _sentinel_drone_driver_generate_messages_check_deps_CommandBool[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _sentinel_drone_driver_generate_messages_check_deps_PIDError[0m
+[35m[1mScanning dependencies of target _sentinel_drone_driver_generate_messages_check_deps_RCMessage[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _sentinel_drone_driver_generate_messages_check_deps_RCMessage
+[  0%] Built target _sentinel_drone_driver_generate_messages_check_deps_CommandBool
+[  0%] Built target _sentinel_drone_driver_generate_messages_check_deps_PIDError
+[35m[1mScanning dependencies of target sentinel_drone_driver_generate_messages_py[0m
+[35m[1mScanning dependencies of target sentinel_drone_driver_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sentinel_drone_driver_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sentinel_drone_driver_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sentinel_drone_driver_generate_messages_nodejs[0m
+[  5%] [34m[1mGenerating EusLisp manifest code for sentinel_drone_driver[0m
+[ 22%] [34m[1mGenerating C++ code from sentinel_drone_driver/RCMessage.msg[0m
+[ 22%] [34m[1mGenerating Python from MSG sentinel_drone_driver/RCMessage[0m
+[ 33%] [34m[1mGenerating Python from MSG sentinel_drone_driver/PIDError[0m
+[ 22%] [34m[1mGenerating Lisp code from sentinel_drone_driver/RCMessage.msg[0m
+[ 33%] [34m[1mGenerating C++ code from sentinel_drone_driver/PIDError.msg[0m
+[ 38%] [34m[1mGenerating C++ code from sentinel_drone_driver/CommandBool.srv[0m
+[ 44%] [34m[1mGenerating EusLisp code from sentinel_drone_driver/PIDError.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from sentinel_drone_driver/RCMessage.msg[0m
+[ 55%] [34m[1mGenerating EusLisp code from sentinel_drone_driver/CommandBool.srv[0m
+[ 61%] [34m[1mGenerating Javascript code from sentinel_drone_driver/PIDError.msg[0m
+[ 72%] [34m[1mGenerating Python code from SRV sentinel_drone_driver/CommandBool[0m
+[ 72%] [34m[1mGenerating Javascript code from sentinel_drone_driver/RCMessage.msg[0m
+[ 77%] [34m[1mGenerating Lisp code from sentinel_drone_driver/PIDError.msg[0m
+[ 83%] [34m[1mGenerating Lisp code from sentinel_drone_driver/CommandBool.srv[0m
+[ 88%] [34m[1mGenerating Javascript code from sentinel_drone_driver/CommandBool.srv[0m
+[ 88%] Built target sentinel_drone_driver_generate_messages_lisp
+[ 88%] Built target sentinel_drone_driver_generate_messages_nodejs
+[ 88%] Built target sentinel_drone_driver_generate_messages_cpp
+[100%] [34m[1mGenerating Python srv __init__.py for sentinel_drone_driver[0m
+[100%] [34m[1mGenerating Python msg __init__.py for sentinel_drone_driver[0m
+[100%] Built target sentinel_drone_driver_generate_messages_py
+[100%] Built target sentinel_drone_driver_generate_messages_eus
+[35m[1mScanning dependencies of target sentinel_drone_driver_generate_messages[0m
+[100%] Built target sentinel_drone_driver_generate_messages

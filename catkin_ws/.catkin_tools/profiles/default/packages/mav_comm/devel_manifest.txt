@@ -1,0 +1,2 @@
+sentinel_drone/task_1/mav_comm/mav_comm
+/home/hyden/catkin_ws/devel/.private/mav_comm/cmake.lock /home/hyden/catkin_ws/devel/./cmake.lock

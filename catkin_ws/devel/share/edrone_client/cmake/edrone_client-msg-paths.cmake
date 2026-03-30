@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/edrone_client/share/edrone_client/cmake/edrone_client-msg-paths.cmake

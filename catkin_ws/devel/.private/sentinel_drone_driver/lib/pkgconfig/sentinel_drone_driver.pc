@@ -1,0 +1,8 @@
+prefix=/home/hyden/catkin_ws/devel/.private/sentinel_drone_driver
+
+Name: sentinel_drone_driver
+Description: Description of sentinel_drone_driver
+Version: 0.1.0
+Cflags: -I/home/hyden/catkin_ws/devel/.private/sentinel_drone_driver/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

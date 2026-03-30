@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hyden/catkin_ws/devel/.private/sentinel_drone_driver/setup.sh

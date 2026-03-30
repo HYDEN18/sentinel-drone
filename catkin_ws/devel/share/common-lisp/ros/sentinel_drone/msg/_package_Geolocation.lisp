@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/sentinel_drone/share/common-lisp/ros/sentinel_drone/msg/_package_Geolocation.lisp

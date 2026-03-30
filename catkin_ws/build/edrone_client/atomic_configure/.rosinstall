@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hyden/catkin_ws/devel/.private/edrone_client/setup.sh

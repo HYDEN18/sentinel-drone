@@ -1,0 +1,27 @@
+MagneticField.proto: warning: Import quaternion.proto but not used.
+In file included from [01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../protocol.h:85[m[K,
+                 from [01m[K/opt/ros/noetic/include/mavlink/v1.0/common/common.h:30[m[K,
+                 from [01m[K/opt/ros/noetic/include/mavlink/v1.0/common/mavlink.h:32[m[K,
+                 from [01m[K/home/hyden/catkin_ws/src/sentinel_drone/task_1/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_mavlink_interface.h:39[m[K,
+                 from [01m[K/home/hyden/catkin_ws/src/sentinel_drone/task_1/rotors_gazebo_plugins/src/gazebo_mavlink_interface.cpp:23[m[K:
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:[m[K In function ‘[01m[Kuint16_t mavlink_finalize_message_chan(mavlink_message_t*, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t)[m[K’:
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:86:24:[m[K [01;35m[Kwarning: [m[Ktaking address of packed member of ‘[01m[K__mavlink_message[m[K’ may result in an unaligned pointer value [[01;35m[K-Waddress-of-packed-member[m[K]
+   86 |  crc_accumulate_buffer([01;35m[K&msg->checksum[m[K, _MAV_PAYLOAD(msg), msg->len);
+      |                        [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:88:28:[m[K [01;35m[Kwarning: [m[Ktaking address of packed member of ‘[01m[K__mavlink_message[m[K’ may result in an unaligned pointer value [[01;35m[K-Waddress-of-packed-member[m[K]
+   88 |  crc_accumulate(crc_extra, [01;35m[K&msg->checksum[m[K);
+      |                            [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:[m[K In function ‘[01m[Kvoid mavlink_start_checksum(mavlink_message_t*)[m[K’:
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:200:11:[m[K [01;35m[Kwarning: [m[Ktaking address of packed member of ‘[01m[K__mavlink_message[m[K’ may result in an unaligned pointer value [[01;35m[K-Waddress-of-packed-member[m[K]
+  200 |  crc_init([01;35m[K&msg->checksum[m[K);
+      |           [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:[m[K In function ‘[01m[Kvoid mavlink_update_checksum(mavlink_message_t*, uint8_t)[m[K’:
+[01m[K/opt/ros/noetic/include/mavlink/v1.0/common/../mavlink_helpers.h:205:20:[m[K [01;35m[Kwarning: [m[Ktaking address of packed member of ‘[01m[K__mavlink_message[m[K’ may result in an unaligned pointer value [[01;35m[K-Waddress-of-packed-member[m[K]
+  205 |  crc_accumulate(c, [01;35m[K&msg->checksum[m[K);
+      |                    [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/build.make:63: CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:2091: CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [Makefile:141: all] Error 2

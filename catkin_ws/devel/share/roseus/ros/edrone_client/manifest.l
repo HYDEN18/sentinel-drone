@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/edrone_client/share/roseus/ros/edrone_client/manifest.l

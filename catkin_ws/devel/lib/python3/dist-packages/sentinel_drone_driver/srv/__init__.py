@@ -1,0 +1,1 @@
+/home/hyden/catkin_ws/devel/.private/sentinel_drone_driver/lib/python3/dist-packages/sentinel_drone_driver/srv/__init__.py
