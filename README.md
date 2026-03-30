@@ -4,7 +4,6 @@ An autonomous drone system capable of navigating from one point to another witho
 
 ---
 
-```markdown
 ## 🎥 Demo Video
 
 Watch the project in action:
